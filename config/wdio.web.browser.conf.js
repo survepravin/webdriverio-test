@@ -47,7 +47,7 @@ config.capabilities = [
         },
 
         'cjson:metadata': {
-            device: 'My Laptop',
+            device: 'My Workstation',
             platform: {
                 version: 'Win 10'
             }
